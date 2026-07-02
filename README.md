@@ -2,7 +2,7 @@
 
 tep 1: Go to the Releases page
 text
-https://github.com/nsncjb-source/Silence-v3/releases
+https://github.com/nsncjb-source/Silence-v3-/releases
 Step 2: Find the latest release
 Look for the newest release (v3.0.0)
 
